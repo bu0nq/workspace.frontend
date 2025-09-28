@@ -17,7 +17,9 @@ export default defineConfig({
       remoteName: 'remote',
       optimize: {
         layout: 'constrained',
-        breakpoints: [360, 400, 640, 800, 1024, 1280, 1440, 1920, 2560, 2880, 3840],
+        breakpoints: [
+          360, 400, 640, 800, 1024, 1280, 1440, 1920, 2560, 2880, 3840,
+        ],
         resolution: [1, 2],
       },
     },
@@ -56,7 +58,8 @@ export default defineConfig({
     modules: {
       scopeBehaviour: 'local',
       globalModulePaths: [],
-      generateScopedName: (context, localIdentName, localName) => globalScopedNameBEM(context, localIdentName),
+      generateScopedName: (context, localIdentName, localName) =>
+        globalScopedNameBEM(context, localIdentName),
       hashPrefix: '',
       localsConvention: 'dashesOnly',
     },

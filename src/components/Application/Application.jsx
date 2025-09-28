@@ -8,9 +8,5 @@ import classnames from '@bu0nq/utility.classnames'
 export default function (props) {
   const { className, children } = props
 
-  return (
-    <div className={classnames(classes.root, className)}>
-        {children}
-    </div>
-  )
+  return <div className={classnames(classes.root, className)}>{children}</div>
 }
