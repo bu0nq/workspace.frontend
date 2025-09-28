@@ -74,8 +74,5 @@
   "bugs": {
     "url": "https://github.com/bu0nq/workspace.frontend/issues"
   },
-  "homepage": "https://github.com/bu0nq/workspace.frontend#readme",
-  "publishConfig": {
-    "access": "public"
-  }
+  "homepage": "https://github.com/bu0nq/workspace.frontend#readme"
 }
