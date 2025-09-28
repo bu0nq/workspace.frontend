@@ -1,5 +1,5 @@
 {
-  "name": "workspace.front-end",
+  "name": "workspace.frontend",
   "private": true,
   "type": "module",
   "version": "0.1.0",
@@ -52,7 +52,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bu0nq/workspace.front-end.git"
+    "url": "https://github.com/bu0nq/workspace.frontend.git"
   },
   "author": {
     "name": "bu0nq",
@@ -60,7 +60,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bu0nq/workspace.front-end/issues"
+    "url": "https://github.com/bu0nq/workspace.frontend/issues"
   },
-  "homepage": "https://github.com/bu0nq/workspace.front-end#readme"
+  "homepage": "https://github.com/bu0nq/workspace.frontend#readme"
 }

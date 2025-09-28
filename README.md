@@ -1,1 +1,1 @@
-# Workspace.Front-end
+# Workspace.FrontEnd
